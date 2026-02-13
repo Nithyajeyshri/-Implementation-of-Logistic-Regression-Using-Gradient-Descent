@@ -70,7 +70,7 @@ print("Prdicted Result:",y_prednew)
 
 ## Output:
 <img width="1407" height="359" alt="Screenshot 2026-02-13 153725" src="https://github.com/user-attachments/assets/948e7e3d-7d6e-4eeb-a114-88af8a9ff7e6" />
-<img width="856" height="489" alt="Screenshot 2026-02-13 153629" src="https://github.com/user-attachments/assets/d95e808a-15e4-45b9-809d-9f0aa4e88e00" />
+<img width="901" height="489" alt="Screenshot 2026-02-13 154043" src="https://github.com/user-attachments/assets/b1e1bf21-35ff-4377-9d9b-718484ab5961" />
 <img width="608" height="138" alt="Screenshot 2026-02-13 153540" src="https://github.com/user-attachments/assets/b62e7ca5-9e63-4195-b059-8b06e9aac54e" />
 
 ## Result:
